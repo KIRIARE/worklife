@@ -1,0 +1,15 @@
+{
+  "name": "worklife-hub",
+  "version": "1.0.0",
+  "description": "직장인 올인원 라이프 매니저",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^45.1.0"
+  }
+}
